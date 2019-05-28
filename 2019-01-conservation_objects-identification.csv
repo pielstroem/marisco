@@ -1,0 +1,91 @@
+Type	Category	Identified	Present	Rate
+KEA	Solar_radiation	7	19	0.368421052631579
+KEA	Heat_flow			
+KEA	Other_energy_inputs			
+KEA	Air_quality			
+KEA	Global_climate_conditions			
+KEA	Weather_and_local_climate_conditions			
+KEA	Water_characteristics			
+KEA	Hydrologic_regimes			
+KEA	Snow/ice_regimes			
+KEA	Physical_soil_parameters			
+KEA	Chemical_soil_parameters			
+KEA	Geomorphological_processes			
+KEA	Oxygen_cycle			
+KEA	Carbon_cycle			
+KEA	Nitrogen_cycle			
+KEA	Phosphorus_cycle			
+KEA	Other_nutrient_cycles			
+KEA	Primary_production			
+KEA	Above_ground_biomass			
+KEA	Below_ground_biomass			
+KEA	Aquatic_biomass			
+KEA	Extent_of_ecosystems			
+KEA	Intraspecific/Genetic_diversity			
+KEA	Interspecific_diversity/species_richness			
+KEA	Morphofunctional_diversity			
+KEA	Diversity_of_ecological_traits			
+KEA	Habitat_diversity			
+KEA	Ecosystem_diversity			
+KEA	Distribution_and_connectivity_of_ecosystems			
+KEA	Extent,_distribution_and_connectivity_of_communities			
+KEA	Structure_and_composition_of_communities			
+KEA	Synecological_interactions_and_interdependencies			
+KEA	Physiology_and_behavior_of_individuals			
+KEA	Viable_population_size,_structure_and_natural_population_dynamics			
+KEA	Habitat_quantity_and_quality_(including_abiotic_and_biotic_habitat_components)			
+KEA	Energy_efficiency			
+KEA	Matter_efficiency			
+KEA	Water_efficiency			
+KEA	Recovery			
+KEA	Adaptive_capacity			
+KEA	Resistance			
+BO	Agricultural systems			
+BO	Alpine/Montane grasslands and shrublands			
+BO	Alpine Forest			
+BO	Benthic zone (Sea floors)			
+BO	Biological wastewater treatment systems			
+BO	Boreal Forest/Taiga			
+BO	Caves			
+BO	Chapparal			
+BO	Continental shelf			
+BO	Cold seeps			
+BO	Coral reefs			
+BO	Desert streams			
+BO	Deserts and xeric shrublands			
+BO	Demersal zone			
+BO	Dunes			
+BO	Estuaries			
+BO	Floodplains			
+BO	Forest plantations			
+BO	Freshwater Lakes			
+BO	Freshwater marshes			
+BO	Hydrothermal vents			
+BO	Kelp forests			
+BO	Lagoons			
+BO	Landfills			
+BO	Mangrove Wetlands			
+BO	Mediterranean Forests, woodlands and scrubs 			
+BO	Ocean banks			
+BO	Open oceans			
+BO	Peatlands			
+BO	Polar terrestrial/Glacial and nival ecosystems			
+BO	Riparian Wetlands			
+BO	Rivers and streams			
+BO	Rocky intertidal zone			
+BO	Saline and soda lakes			
+BO	Salt marshes			
+BO	Savannas			
+BO	Seamounts			
+BO	Steppe, Prairies and Grasslands			
+BO	Swamps			
+BO	Temperate broadleaf and mixed forests			
+BO	Temperate Coniferous Forest 			
+BO	Temporary waters			
+BO	Tropical and subtropical moist broadleaf forests			
+BO	Tropical and subtropical dry broadleaf forests			
+BO	Tropical and suptropical coniferous forests			
+BO	Tundra			
+BO	Upwelling ecosystems			
+BO	Urban systems			
+BO	Wind shelterbelts			
